@@ -1,0 +1,1 @@
+A simple webapp where individuals can apply for different roles in the same organization. All their data is stored in relational database using Xampp Server. Bootstrap is used for designing of form. PHP is used for server side scripting along with MySQL to connect with database.
